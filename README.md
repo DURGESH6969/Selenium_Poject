@@ -9,7 +9,6 @@ Welcome to the Selenium Project repository, where i have performed comprehensive
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Tested Web Components](#tested-web-components)
 - [How to Run Tests](#how-to-run-tests)
 - [Contributing](#contributing)
 - [License](#license)
