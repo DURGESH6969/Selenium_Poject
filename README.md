@@ -60,7 +60,7 @@ Observe the test results in the terminal and any browser windows that may open.
 You can customize and expand the tests as needed for your project.
 
 ## **Contributing** ##
-Contributions are welcome! If you'd like to improve this project, open an issue or submit a pull request. Please follow the Contributing Guidelines for more information.
+Contributions are welcome! If you'd like to improve this project, open an issue or submit a pull request.
 
 
 
