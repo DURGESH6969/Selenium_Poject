@@ -11,7 +11,6 @@ Welcome to the Selenium Project repository, where i have performed comprehensive
 - [Installation](#installation)
 - [How to Run Tests](#how-to-run-tests)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
