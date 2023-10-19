@@ -47,7 +47,7 @@ Input Fields: Testing text input fields, radio buttons, and checkboxes.
 Alerts and Modals: Handling alerts, pop-ups, and modals.
 Please explore the project source code to see the detailed tests for each web component.
 
-**How to Run Tests**
+## How to Run Tests ##
 
 To run the tests, follow these steps:
 
@@ -61,7 +61,7 @@ Observe the test results in the terminal and any browser windows that may open.
 
 You can customize and expand the tests as needed for your project.
 
-**Contributing**
+## **Contributing** ##
 Contributions are welcome! If you'd like to improve this project, open an issue or submit a pull request. Please follow the Contributing Guidelines for more information.
 
 
