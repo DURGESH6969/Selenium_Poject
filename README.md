@@ -1,6 +1,6 @@
 # Selenium Project: Testing Web Components with Selenium WebDriver
 
-![Selenium Logo](https://www.selenium.dev/images/selenium_logo_large.png)
+![Selenium Logo](https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg)
 
 Welcome to the Selenium Project repository, where i have performed comprehensive testing of basic web components on [DemoQA](https://demoqa.com) using the Selenium WebDriver.
 
