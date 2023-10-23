@@ -14,8 +14,9 @@ driver.minimize_window() #minimizing window
 driver.maximize_window() #maximizing window
 driver.get("https://demoqa.com/element")
 driver.back()
-time.sleep(3)
+time.sleep(5)
 driver.forward()
+driver.refresh()
 print(driver.current_url)
 time.sleep(3)
 
