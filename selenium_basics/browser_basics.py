@@ -20,4 +20,4 @@ driver.refresh()
 print(driver.current_url)
 time.sleep(3)
 
-driver.close()
+driver.exit()
