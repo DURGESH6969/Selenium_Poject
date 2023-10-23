@@ -1,11 +1,22 @@
 # selenium 4
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
+import time
 
-driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+options = webdriver.ChromeOptions()
+options.add_experimental_option('excludeSwitches', ['enable-logging'])
+
+driver = webdriver.Chrome(options=options)
 
 driver.get("https://demoqa.com/")
 print(driver.title)
 print(driver.current_url)
+driver.minimize_window() #minimizing window
+driver.maximize_window() #maximizing window
+driver.get("https://demoqa.com/element")
+driver.back()
+time.sleep(3)
+driver.forward()
+print(driver.current_url)
+time.sleep(3)
+
 driver.close()
